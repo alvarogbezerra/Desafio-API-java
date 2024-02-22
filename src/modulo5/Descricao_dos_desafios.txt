@@ -1,0 +1,1 @@
+Este projeto foi o desafio final proposto no módulo 5 curso: "Java: consumindo API, gravando arquivos e lidando com erros" da Alura. Este desafio tem o objetivo de unir todos os conhecimentos ensinados no curso.
